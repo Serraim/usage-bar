@@ -1,0 +1,6 @@
+{
+  "name": "usage-bar",
+  "version": "0.1.0",
+  "description": "컨텍스트 사용량과 5시간·일주일 한도를 게이지로 보여주는 패널",
+  "types": "./types/index.d.ts"
+}
