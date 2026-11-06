@@ -4,9 +4,7 @@ Claude Code 입력창 위에 컨텍스트 사용량과 5시간·일주일 한도
 
 A Claude Code plugin that shows context usage and the 5-hour and 7-day limits as one line of colored gauges above the prompt.
 
-```text
-CONTEXT ▰▰▱▱▱▱▱ 24%  │  5H ▰▰▰▰▰▱▱ 67% ↻2h13m  │  7D ▰▰▰▰▰▰▰ 93% ↻6h13m
-```
+![usage-bar 패널 화면](docs/preview.png)
 
 ## 왜 만들었나
 
